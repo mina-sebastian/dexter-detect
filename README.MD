@@ -2,6 +2,7 @@
 
 ## **Overview**
 This project runs two tasks concurrently, utilizing both **YOLO** and **AlexNet** models for image processing. The results are organized into separate folders for clarity and ease of access.
+The target is to do face detection on cartoons.
 
 ## **Getting Started**
 
